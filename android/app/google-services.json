@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248997441557",
+    "project_id": "supa-e534f",
+    "storage_bucket": "supa-e534f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248997441557:android:26e63fad26a73f2f35de1c",
+        "android_client_info": {
+          "package_name": "com.example.supa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTQPhfhJKK_gckYBnveATQi7E49m-PsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
